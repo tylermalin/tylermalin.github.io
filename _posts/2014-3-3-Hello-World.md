@@ -2,7 +2,7 @@
 layout: post
 title: Why I am Blogging Again? AKA, Am I insane?
 ---
-Inline-style: 
+ 
 ![welcome](https://d13yacurqjgara.cloudfront.net/users/3941/screenshots/406093/sh_mono_2.jpg "tyler malin's blog")
 
 
