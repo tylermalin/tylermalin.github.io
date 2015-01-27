@@ -2,8 +2,14 @@
 layout: post
 title: Why I am Blogging Again? AKA, Am I insane?
 ---
- 
-![welcome](http://farmroaddesign.com/wp-content/uploads/2012/08/writing-icon1.jpg "tyler malin's blog")
+ <link rel="stylesheet" href="/path/to/flickity.css" media="screen">
+ <script src="/flickity.pkgd.min.js"></script>
+<div class="gallery js-flickity">
+  <div class="![welcome](http://farmroaddesign.com/wp-content/uploads/2012/08/writing-icon1.jpg "tyler malin")
+  </div>
+  <div class="![welcome](http://farmroaddesign.com/wp-content/uploads/2012/08/writing-icon1.jpg "tyler malin's blog")"></div>
+  ...
+
 
 
 I am in the process of working on two larger books which I will be releasing in the coming months and have determined that daily writing along the way can only assist in that process.  I welcome comments, critique, smart ass remarks - whatever you got :).  
