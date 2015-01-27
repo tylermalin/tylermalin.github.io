@@ -1,3 +1,5 @@
+! [The Power of Video] (http://www.vostit.com/blog/wp-content/uploads/2013/01/psychology-624x334.jpg "The Power of Video")
+
 Video is a remarkable medium for communication and has captivated me completely for the past ten years. 
 I have spent a good deal of time thinking about why video is such a powerful tool and can sum it up fairly quickly. 
 
