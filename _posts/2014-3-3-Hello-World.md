@@ -5,9 +5,10 @@ title: Why I am Blogging Again? AKA, Am I insane?
  <link rel="stylesheet" href="/path/to/flickity.css" media="screen">
  <script src="/flickity.pkgd.min.js"></script>
 <div class="gallery js-flickity">
-  <div class="![welcome](http://farmroaddesign.com/wp-content/uploads/2012/08/writing-icon1.jpg "tyler malin")
+  <div class="gallery cell") </div>
+  
+  <div class="gallery cell")
   </div>
-  <div class="![welcome](http://farmroaddesign.com/wp-content/uploads/2012/08/writing-icon1.jpg "tyler malin's blog")"></div>
   ...
 
 
