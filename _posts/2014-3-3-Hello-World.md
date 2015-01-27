@@ -3,7 +3,7 @@ layout: post
 title: Why I am Blogging Again? AKA, Am I insane?
 ---
  
-![welcome](https://d13yacurqjgara.cloudfront.net/users/3941/screenshots/406093/sh_mono_2.jpg "tyler malin's blog")
+![welcome](http://farmroaddesign.com/wp-content/uploads/2012/08/writing-icon1.jpg "tyler malin's blog")
 
 
 I am in the process of working on two larger books which I will be releasing in the coming months and have determined that daily writing along the way can only assist in that process.  I welcome comments, critique, smart ass remarks - whatever you got :).  
