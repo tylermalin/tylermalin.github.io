@@ -6,10 +6,8 @@ title: Why I am Blogging Again? AKA, Am I insane?
   data-flickity-options='{ "cellAlign": "left", "contain": true }'>
   <img src="https://a4-images.myspacecdn.com/images04/8/55fec9836865460db37b25b9eab94752/300x300.jpg" />
   <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1aa/08c/16f9533.jpg" />
-  
-  ...
 </div>
-  ...
+
 
 
 
