@@ -2,13 +2,13 @@
 layout: post
 title: Why I am Blogging Again? AKA, Am I insane?
 ---
- <link rel="stylesheet" href="/path/to/flickity.css" media="screen">
- <script src="/flickity.pkgd.min.js"></script>
-<div class="gallery js-flickity">
-  <div class="gallery cell") </div>
-  
-  <div class="gallery cell")
-  </div>
+<div class="gallery js-flickity"
+  data-flickity-options='{ "imagesLoaded": true, "percentPosition": false }'>
+  <img src="orange-tree.jpg" alt="orange tree" />
+  <img src="submerged.jpg" alt="submerged" />
+  <img src="look-out.jpg" alt="look-out" />
+  ...
+</div>
   ...
 
 
