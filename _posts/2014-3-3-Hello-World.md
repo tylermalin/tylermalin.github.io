@@ -2,11 +2,11 @@
 layout: post
 title: Why I am Blogging Again? AKA, Am I insane?
 ---
-<div class="gallery js-flickity"
-  data-flickity-options='{ "imagesLoaded": true, "percentPosition": false }'>
+<div id="main-gallery" class="js-flickity"
+  data-flickity-options='{ "cellAlign": "left", "contain": true }'>
   <img src="https://a4-images.myspacecdn.com/images04/8/55fec9836865460db37b25b9eab94752/300x300.jpg" />
   <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1aa/08c/16f9533.jpg" />
-  <img src="https://pbs.twimg.com/profile_images/378800000531627117/9247503e9ed2b219967831ee4ad8dceb.jpeg"  />
+  
   ...
 </div>
   ...
